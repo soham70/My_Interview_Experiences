@@ -1,0 +1,40 @@
+⭐Credit Suisse Interview Experience:
+Firstly the interviewer went through my project.
+Asked me to brief about Carttonifying Image project ,the team size and my role in the project.
+
+Data Structures and asked trees.
+6 names were given and he asked me to arrange it in binary tree and binary search tree.How searching takes place and what to do in case the right subtree becomes heavy.I told we can use AVL(self balancing trees approach).
+He asked me whether I knew Doubly Linked List.I drew it and explained it to him and he then asked to write pseudocode to delete a node.
+
+OS:
+Asked what is single core ,dual core quad and octa core.Unable to answer.
+Process vs Thread
+N number of processtaking place what happens if we press Restart.
+what happens if many processes are taking place simultaneously.
+One question related to Preemption,arrival and waiting time.
+
+Asked whether currently do you have any projects in this semester.
+I explained currently going on project.What could my role be in it.
+
+Had some discussion on miscalleneous topics at end.
+Rejected😔
+
+⭐TIAA Internship Interview Experience:
+Asked me to introduce myself
+Asked me basic coding questions like reverse a number,anagram and swap two numbers without using extra variable.
+Asked difference between array and linkedlist,expected to write code in java.
+was being evaluated on java throught the interview.
+excepted software testing in java
+Moved to projects, why react?,what is async await in react?
+how would you fetch data from server in react?
+Rejected😔
+
+⭐Bajaj Finserv Interview Experience:
+First was asked to intriduce myself.
+Asked about my internship project,was it was implemented.
+Asked about Projects and their implementstion
+Asked How to implement Car using oop concepts.
+Failed to give answer as he expected to use interface/abstract class in it.
+Rejected😔
+
+
