@@ -38,3 +38,33 @@ Failed to give answer as he expected to use interface/abstract class in it.
 Rejected😔
 
 
+⭐E2Open Interview Experience
+Started by asking introduction
+what are you comfortable with .net ,java?
+any server side technologies?
+diff between interface and abstract class
+write code for multiple inheritance?
+what is inheritance?
+compile time vs run time
+can we make constructor private?
+struct vs class diff
+any idea of collections in java?
+what is try and catch block?
+overloading vs overriding?
+which database are you familiar with?
+acid properties,normalization forms with example
+how to find common attributes between tables(using joins)
+delete second max salary from table
+write code: given a string count number of vowels in it.
+{Gave a brute force approach using char array,also explained approach using set data structure}
+➡️selected for HR round:
+HR Questions:
+introduce about yourself
+family background
+why e2open?
+what you liked about company?
+How can you implement AI/ML in company or product?
+Rejected😔
+
+
+
