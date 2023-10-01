@@ -66,5 +66,16 @@ what you liked about company?
 How can you implement AI/ML in company or product?
 Rejected😔
 
-
+⭐General Mills Interview Experience
+Started with Introduction
+It was resume-based interview
+first asked about myinternship project
+asked me to draw and explain architecture.
+asked to explain why MernStack and MongoDB
+asked me what security measures have been implemented
+asked about the JWT token.
+SQl queries one was using and operator and other using group by and having
+What is partitioning?
+one array is given decide whether it's a square,rectangle or polygon
+rejected😔
 
